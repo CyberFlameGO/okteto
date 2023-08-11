@@ -1127,10 +1127,12 @@ github.com/prometheus/procfs v0.6.0 h1:mxy4L2jP6qMonqmq+aTtOx1ifVWUgG/TAmntgbh3x
 github.com/prometheus/procfs v0.6.0/go.mod h1:cz+aTbrPOrUb4q7XlbU9ygM+/jj0fzG6c1xBZuNvfVA=
 github.com/prometheus/tsdb v0.7.1/go.mod h1:qhTCs0VvXwvX/y3TZrWD7rabWM+ijKTux40TwIPHuXU=
 github.com/qri-io/starlib v0.4.2-0.20200213133954-ff2e8cd5ef8d/go.mod h1:7DPO4domFU579Ga6E61sB9VFNaniPVwJP5C4bBCu3wA=
+github.com/rancher/lasso v0.0.0-20200905045615-7fcb07d6a20b/go.mod h1:OhBBBO1pBwYp0hacWdnvSGOj+XE9yMLOLnaypIlic18=
 github.com/rancher/lasso v0.0.0-20210224225615-d687d78ea02a/go.mod h1:OhBBBO1pBwYp0hacWdnvSGOj+XE9yMLOLnaypIlic18=
 github.com/rancher/wrangler v0.6.1/go.mod h1:L4HtjPeX8iqLgsxfJgz+JjKMcX2q3qbRXSeTlC/CSd4=
-github.com/rancher/wrangler v0.7.3-0.20210224225730-5ed69efb6ab9 h1:whwrmNyZWW4M/17rEC8e9vB9wz2sUD0qbhFxSakeEHk=
 github.com/rancher/wrangler v0.7.3-0.20210224225730-5ed69efb6ab9/go.mod h1:9du9GpI1/n6pgIVdOSd4vGUy+2RQlHF9wW9LxxR0yDs=
+github.com/rancher/wrangler v0.7.4-security1 h1:RQR56EZVQ/ow96pK9otKjSqs1jEQeVl2Mb2yElPbkHA=
+github.com/rancher/wrangler v0.7.4-security1/go.mod h1:goezjesEKwMxHLfltdjg9DW0xWV7txQee6vOuSDqXAI=
 github.com/rancher/wrangler-cli v0.0.0-20210217230406-95cfa275f52f/go.mod h1:KxpGNhk/oVL6LCfyxESTD1sb8eXRlUxtkbNm06+7dZU=
 github.com/remyoudompheng/bigfft v0.0.0-20170806203942-52369c62f446/go.mod h1:uYEyJGbgTkfkS4+E/PavXkNJcbFIpEtjt2B0KDQ5+9M=
 github.com/rivo/uniseg v0.1.0/go.mod h1:J6wj4VEh+S6ZtnVlnTBMWIodfgj8LQOQFoIToxlJtxc=
